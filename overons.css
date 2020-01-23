@@ -1,0 +1,99 @@
+.navbar-brand{
+    width: 220px;
+    height: 118px;
+    margin-right: 20px;
+}
+
+.bg-wihte{
+    background-color: white;
+}
+
+.nav-item{
+    margin-left: 100px;
+    font-size: large;
+}
+
+
+.container{
+    background-color:#010101be ;
+    width: 1300px;
+    height: 1600px;
+    }
+
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 4%;
+}
+
+.welkomtext{
+    margin-left: auto;
+    margin-right: auto;
+}
+.welkomtext{
+    color: #EFD94D;
+    font-weight: bold;
+    font-size: larger;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom:  90px;
+}
+
+.kappers{
+    width: 150px;
+    height: 150px;
+    position:absolute;
+    left: 0;
+    border: 5px solid  rgb(255, 217, 0);
+    box-shadow: 5px 10px   rgba(211, 196, 110, 0.24);
+}
+
+
+.stagiar{
+    width: 150px;
+    height: 150px;
+    position:absolute;
+    left: 0;
+    border: 5px solid  rgb(255, 217, 0);
+    box-shadow: 5px 10px   rgba(211, 196, 110, 0.24);
+    }
+
+
+.text1{
+    font-weight: bold;
+    font-size: 20px;
+    color:#CCCCCC;
+}
+
+.title1{
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #EFD94D;
+}
+
+.einde{
+    background-color: white;
+}
+
+
+.einde2{
+    background-color: white;
+    float: center;
+    color:rgb(2, 2, 2);
+    text-align: center;
+    list-style: none;
+}
+
+.einde{
+    background-color: white;
+}
+
+
+.einde2{
+    background-color: white;
+    float: center;
+    color:rgb(2, 2, 2);
+    text-align: center;
+    list-style: none;
+}

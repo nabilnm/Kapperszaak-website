@@ -1,0 +1,69 @@
+.navbar-brand{
+    width: 220px;
+    height: 118px;
+    margin-right: 20px;
+}
+
+.bg-wihte{
+    background-color: white;
+}
+
+.nav-item{
+    margin-left: 100px;
+    font-size: large;
+}
+
+
+.container{
+background-color:#010101be ;
+width: 1300px;
+height: 1200px;
+}
+
+
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 4%;
+}
+
+.welkomtext{
+    margin-left: auto;
+    margin-right: auto;
+}
+.welkomtext{
+    color: #EFD94D;
+    font-weight: bold;
+    font-size: larger;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom:  90px;
+}
+
+
+.prijzen h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    color: #EFD94D;
+}
+
+.prijzen li{
+    font-size: 20px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+.einde{
+    background-color: white;
+}
+
+
+.einde2{
+    background-color: white;
+    float: center;
+    color:rgb(2, 2, 2);
+    text-align: center;
+    list-style: none;
+}

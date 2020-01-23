@@ -1,0 +1,127 @@
+.navbar-brand{
+    width: 220px;
+    height: 118px;
+    margin-right: 20px;
+}
+
+.bg-wihte{
+    background-color: white;
+}
+
+.nav-item{
+    margin-left: 100px;
+    font-size: large;
+}
+
+
+.container{
+background-color:#010101be ;
+width: 1300px;
+height: 1700px;
+}
+
+
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 4%;
+}
+
+.welkomtext{
+    margin-left: auto;
+    margin-right: auto;
+}
+.welkomtext{
+    color: #EFD94D;
+    font-weight: bold;
+    font-size: larger;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom:  90px;
+}
+
+.welkomtext2{
+     font-size: 20px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+#maakeenafspraak{
+    width: 700px;
+    height: 600px;
+    
+    border: 5px solid  goldenrod;
+}
+.text2{
+    border: 2px solid gray;
+    text-transform: uppercase;
+    color: goldenrod;
+    font-size: 50px;
+}
+
+
+.kort{
+    border: 2px solid gray;
+    text-transform: uppercase;
+    color: goldenrod;
+    font-size: 45px;
+}
+
+#image1{
+    background-color: rgb(187, 159, 68);
+    position:static;
+}
+
+#korthaaropties{
+    width: 450px;
+    height:450px;
+    background-color: rgba(226, 187, 58, 0.507);
+    border: 5px solid  goldenrod;
+}
+
+#korthaaropties p{
+ text-align:left;
+ color:  rgba(0, 0, 0, 0.856);
+}
+
+#korthaaropties{
+    display: none;
+}
+
+.A1{
+    background-color: rgba(233, 202, 103, 0.281);
+    float: right;
+
+}
+
+.A3{
+    background-color: black;
+    color:rgb(187, 159, 68);
+}
+
+#bevesteging{
+    width: 550px;
+    height:550px;;
+    color: rgb(187, 159, 68);
+}
+
+#bevesteging h2{
+    width: 550px;
+    height:550px;;
+    color: rgb(250, 249, 248);
+}
+
+
+.einde{
+    background-color: white;
+}
+
+
+.einde2{
+    background-color: white;
+    float: center;
+    color:rgb(2, 2, 2);
+    text-align: center;
+    list-style: none;
+}

@@ -1,0 +1,160 @@
+.navbar-brand{
+    width: 220px;
+    height: 118px;
+    margin-right: 20px;
+}
+
+.bg-wihte{
+    background-color: white;
+}
+
+.nav-item{
+    margin-left: 100px;
+    font-size: large;
+}
+
+.container{
+background-color:#010101be ;
+width: 2400px;
+height: 2150px;
+}
+
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 4%;
+}
+
+.welkomtext{
+    margin-left: auto;
+    margin-right: auto;
+}
+.welkomtext{
+    color: #EFD94D;
+    font-weight: bold;
+    font-size: larger;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom:  90px;
+}
+
+.welkomtext2{
+     font-size: 20px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+.jaar15{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jaar15{
+    color: #EFD94D;
+    font-weight: bold;
+    font-size: larger;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom:  90px;
+}
+
+.jaar15 p{
+    font-size: 20px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+.text2{
+    font-size: 15px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+.text3{
+    font-size: 15px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+.maakeenafspraak h1{
+    color: #EFD94D;
+    font-weight: bold;
+    font-size: larger;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom:  90px;
+}
+
+.maakeenafspraak p{
+    font-size: 15px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+
+.nieuws h1{
+    color: #EFD94D;
+    font-weight: bold;
+    font-size: larger;
+    font-size: 35px;
+    text-transform: uppercase;
+    margin-bottom:  90px;
+}
+
+.nieuws p{
+    font-size: 15px;
+    font-weight: bold;
+    color:#CCCCCC;
+}
+
+.app{
+    width: 95px;
+    height: 95px;
+    float: right;
+}
+
+.knippen{
+    width: 500px;
+    height: 350px;
+    float: center;
+    padding-left: 100px;
+    
+}
+
+.openingstijden{
+    font-size: 15px;
+    font-weight: bold;
+    color:#CCCCCC;
+    float: left;
+    text-transform: uppercase;
+    list-style: none;
+}
+
+.waarzittenwij{
+    font-size: 15px;
+    font-weight: bold;
+    color:#CCCCCC;
+    float: right;
+    text-transform: uppercase;
+    list-style: none;
+}
+
+.einde{
+    background-color: white;
+}
+
+
+.einde2{
+    background-color: white;
+    float: center;
+    color:rgb(2, 2, 2);
+    text-align: center;
+    list-style: none;
+}
+
+
+.B1{
+    background-color: black;
+    color:rgb(187, 159, 68);
+}
